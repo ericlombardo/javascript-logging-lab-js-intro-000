@@ -5,3 +5,4 @@ console.error("please try again")
 console.log("Pin entered correctly")
 
 // Using console.warn() to warn the user something may be wrong
+console.warn("Three more trys until account locks down.")
